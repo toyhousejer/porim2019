@@ -328,4 +328,3 @@ if(hideAfterAnimating)
 addClass(element, '_idGenStateHide');
 evt.stopPropagation();
 }
-document.body.innerHTML = document.body.innerHTML.replace('index-web-resources', '/porim2019');
